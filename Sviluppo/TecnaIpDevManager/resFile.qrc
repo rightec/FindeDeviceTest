@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/content/MainScreen.qml</file>
+        <file>qml/content/MouseDC.qml</file>
+        <file>qml/content/PopUpSetIP.qml</file>
+        <file>qml/content/Risorse/Logo.bmp</file>
+        <file>qml/content/PopUpSetInterface.qml</file>
+        <file>qml/content/Risorse/setUpIcon.png</file>
+        <file>qml/content/Risorse/web</file>
+        <file>qml/content/Risorse/led.jfif</file>
+        <file>qml/content/Risorse/led.png</file>
+        <file>qml/content/Risorse/world-wide-web-globe.jpg</file>
+        <file>qml/content/Risorse/world.png</file>
+        <file>qml/content/Risorse/setUp.png</file>
+    </qresource>
+</RCC>
